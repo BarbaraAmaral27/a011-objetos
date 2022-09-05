@@ -10,7 +10,8 @@ const filme = {
 		{canal: "Canal Brasil", horario: "19h"}, 
 		{canal: "Globo", horario: "14h"}
 		]
-}
+};
+//exercício 2
 
 // a) Qual o código para imprimir o nome do **primeiro** ator/atriz?
 console.log(filme.elenco[0])
